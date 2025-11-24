@@ -106,7 +106,7 @@ npm run dev
 ---
 ##  Roadmap
 
-- User accounts & history  
+- AI image scan and generate description
 - Audio descriptions (text → speech)  
 - Batch image tagging  
 - Multi-language captions  
