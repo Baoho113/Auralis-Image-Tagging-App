@@ -1,19 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/path-to-logo.png" alt="Auralis Logo" width="320"/>
+  <img src="/mnt/data/622c73ec-0a3f-4ae8-9214-7721149b7438.png" alt="Auralis Logo" width="320"/>
 </p>
 
 <h1 align="center">Auralis</h1>
 <p align="center"><i>Accessible Image Tagging for the Visually Impaired</i></p>
 
 <p align="center">
-
-<!-- Badges -->
-<a href="#"><img src="https://img.shields.io/badge/version-1.0.0-green" /></a>
-<a href="#"><img src="https://img.shields.io/badge/license-MIT-blue" /></a>
-<a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
-<a href="#"><img src="https://img.shields.io/badge/status-active-success" /></a>
-<a href="#"><img src="https://img.shields.io/badge/contributions-welcome-orange" /></a>
-
+  <img src="https://img.shields.io/badge/version-1.0.0-green" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/contributions-welcome-orange" />
 </p>
 
 ---
