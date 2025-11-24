@@ -90,23 +90,20 @@ Auralis uses a modern decoupled architecture:
 ---
 
 ##  Getting Started
----
+
 #### Clone the repository
 git clone https://github.com/<your-username>/Auralis.git
 
 #### Navigate into the project
-``bash
 cd Auralis
 
 #### Install dependencies
-``bash
 npm install
 
 #### Run the dev server
-``bash
 npm run dev
 
-
+---
 ##  Roadmap
 
 - User accounts & history  
